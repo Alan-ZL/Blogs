@@ -1,4 +1,5 @@
 module.exports = {
+    base: '/Blogs/',
     theme: "gungnir",
     themeConfig: {
         navbarTitle: "Gungnir", // optional, default: "$ cd /home/"
