@@ -10,7 +10,7 @@
     "vuepress-theme-gungnir": "^2.0.0-alpha.22"
   },
   "scripts": {
-    "dev": "vuepress dev ./",
-    "build": "vuepress build ./"
+    "dev": "vuepress dev",
+    "build": "vuepress build"
   }
 }
