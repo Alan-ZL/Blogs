@@ -2,6 +2,12 @@ module.exports = {
     base: '/Blogs/',
     dest: 'docs',
     title: '無與倫筆',
+    head: [
+        ['link', {
+            rel: 'icon',
+            href: '/img/1651584912.ico'
+        }]
+    ],
     theme: "gungnir",
     themeConfig: {
         navbarTitle: "Gungnir", // optional, default: "$ cd /home/"
