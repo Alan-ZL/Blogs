@@ -7,15 +7,8 @@ export const themeData = {
       "link": "/"
     },
     {
-      "text": "類別",
+      "text": "Tags",
       "link": "/tags"
-    },
-    {
-      "text": "作品集",
-      "children": [
-        "作品",
-        "作品"
-      ]
     }
   ],
   "personalInfo": {
@@ -108,4 +101,17 @@ export const themeData = {
   "pwaPopupButtonText": "Refresh",
   "headerImageCredit": "Image by",
   "search": true
+}
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updateThemeData) {
+    __VUE_HMR_RUNTIME__.updateThemeData(themeData)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ themeData }) => {
+    __VUE_HMR_RUNTIME__.updateThemeData(themeData)
+  })
 }

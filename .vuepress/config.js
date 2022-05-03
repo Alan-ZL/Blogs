@@ -1,11 +1,21 @@
 module.exports = {
     base: '/Blogs/',
     dest: 'docs',
+    title: '無與倫筆',
     theme: "gungnir",
     themeConfig: {
         navbarTitle: "Gungnir", // optional, default: "$ cd /home/"
         navbarTitle: "無與倫筆",
         searchText: "Search",
+        themePlugins: {
+            search: {
+                locales: {
+                    "/": {
+                        placeholder: "Search..."
+                    }
+                }
+            }
+        },
         navbar: [
             // NavbarItem
             {
@@ -13,15 +23,9 @@ module.exports = {
                 link: '/',
             },
             {
-                text: '類別',
+                text: 'Tags',
                 link: '/tags'
             },
-            // NavbarGroup
-            {
-                text: '作品集',
-                children: ['作品', '作品'],
-            },
-            // string - page file path
         ],
         personalInfo: {
             // required: nickname, will be showed on home page, mobile sidebar and author info of articles
