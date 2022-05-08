@@ -1,11 +1,11 @@
 export const data = {
-  "key": "v-8daa1a0e",
-  "path": "/",
-  "title": "Home",
+  "key": "v-cd1ad1d8",
+  "path": "/tags/php/",
+  "title": "Tags",
   "lang": "en-US",
   "frontmatter": {
-    "title": "Home",
-    "layout": "HomePage"
+    "title": "Tags",
+    "layout": "Tags"
   },
   "excerpt": "",
   "headers": [],

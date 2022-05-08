@@ -7,6 +7,46 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "php抓取特定div區塊及圖片",
+    "subtitle": "想抓取其他網站的內容，但又不想用iframe的好方法！",
+    "headers": [
+      {
+        "level": 2,
+        "title": "取得指定網頁內的所有圖片",
+        "slug": "取得指定網頁內的所有圖片",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "取得指定網頁內的第一張圖片",
+        "slug": "取得指定網頁內的第一張圖片",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "取得指定網頁內的特定div區塊（藉由id判斷）",
+        "slug": "取得指定網頁內的特定div區塊-藉由id判斷",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "結合",
+        "slug": "結合",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "參考",
+        "slug": "參考",
+        "children": []
+      }
+    ],
+    "path": "/posts/php%E6%8A%93%E5%8F%96%E7%89%B9%E5%AE%9Adiv%E5%8D%80%E5%A1%8A%E5%8F%8A%E5%9C%96%E7%89%87.html",
+    "pathLocale": "/",
+    "extraFields": [],
+    "layout": "Post"
+  },
+  {
     "title": "第一篇文章",
     "subtitle": "A Test Post without The Header Image",
     "headers": [
@@ -143,6 +183,14 @@ export const searchIndex = [
   {
     "title": "Tags",
     "headers": [],
+    "path": "/tags/php/",
+    "pathLocale": "/",
+    "extraFields": [],
+    "layout": "Tags"
+  },
+  {
+    "title": "Tags",
+    "headers": [],
     "path": "/tags/%E7%AF%84%E4%BE%8B/",
     "pathLocale": "/",
     "extraFields": [],
@@ -157,16 +205,3 @@ export const searchIndex = [
     "layout": "HomePage"
   }
 ]
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updateSearchIndex) {
-    __VUE_HMR_RUNTIME__.updateSearchIndex(searchIndex)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ searchIndex }) => {
-    __VUE_HMR_RUNTIME__.updateSearchIndex(searchIndex)
-  })
-}

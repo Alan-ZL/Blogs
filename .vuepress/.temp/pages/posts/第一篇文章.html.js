@@ -8,7 +8,7 @@ export const data = {
     "title": "第一篇文章",
     "subtitle": "A Test Post without The Header Image",
     "author": "Alan",
-    "date": "2022-5-1",
+    "date": "2022-05-01T00:00:00.000Z",
     "headerImage": "/img/in-post/2022-5-1/header.jpg",
     "tags": [
       "範例"
@@ -125,17 +125,4 @@ export const data = {
     "words": 812
   },
   "filePathRelative": "posts/第一篇文章.md"
-}
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
 }
