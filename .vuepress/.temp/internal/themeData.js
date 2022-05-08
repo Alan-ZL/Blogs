@@ -12,7 +12,7 @@ export const themeData = {
     },
     {
       "text": "Learning Note",
-      "link": "/learning-notes/php"
+      "link": "/learning-notes/css"
     }
   ],
   "personalInfo": {

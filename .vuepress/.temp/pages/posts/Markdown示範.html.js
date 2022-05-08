@@ -1,6 +1,6 @@
 export const data = {
-  "key": "v-5a0ff34f",
-  "path": "/posts/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0.html",
+  "key": "v-4660312c",
+  "path": "/posts/Markdown%E7%A4%BA%E7%AF%84.html",
   "title": "Markdown示範",
   "lang": "en-US",
   "frontmatter": {
@@ -9,7 +9,7 @@ export const data = {
     "subtitle": "A Test Post without Markdown",
     "author": "Alan",
     "date": "2022-05-01T00:00:00.000Z",
-    "headerImage": "/img/in-post/2022-5-1/header.jpg",
+    "headerImage": "/img/language-logo/markdown.png",
     "useHeaderImage": true,
     "headerMask": "rgba(40, 57, 101, .6)",
     "tags": [
@@ -107,24 +107,11 @@ export const data = {
     }
   ],
   "git": {
-    "updatedTime": 1651999202000
+    "updatedTime": null
   },
   "readingTime": {
     "minutes": 4,
     "words": 663
   },
-  "filePathRelative": "posts/第一篇文章.md"
-}
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
+  "filePathRelative": "posts/Markdown示範.md"
 }
