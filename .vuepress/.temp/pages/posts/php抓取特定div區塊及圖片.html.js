@@ -10,6 +10,8 @@ export const data = {
     "author": "alan",
     "date": "2022-05-08T00:00:00.000Z",
     "headerImage": "/img/language-logo/phplogo.jpg",
+    "useHeaderImage": true,
+    "headerMask": "rgba(40, 57, 101, .6)",
     "tags": [
       "php"
     ]
@@ -48,7 +50,7 @@ export const data = {
     }
   ],
   "git": {
-    "updatedTime": null
+    "updatedTime": 1651991556000
   },
   "readingTime": {
     "minutes": 2,

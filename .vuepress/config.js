@@ -32,6 +32,10 @@ module.exports = {
                 text: 'Tags',
                 link: '/tags'
             },
+            {
+                text: 'Learning Note',
+                link: '/learning-notes/php'
+            }
         ],
         personalInfo: {
             // required: nickname, will be showed on home page, mobile sidebar and author info of articles
@@ -73,22 +77,17 @@ module.exports = {
 
                 // optional: paths to and masks of the tags page cover images
                 bgImage: {
-                    path: '/img/pages/tags.jpg',
-                    mask: 'rgba(40, 57, 101, 1)'
+                    path: '/img/tags.jpg',
+                    mask: 'rgba(40, 57, 101, .3)'
                 }
             },
-
-            // links page
-            links: {
-                // optional: subtitle of links page
-                subtitle: 'Hey! Here is links page!',
-
-                // optional: paths to and masks of the links page cover images
-                bgImage: {
-                    path: '/img/pages/links.jpg',
-                    mask: 'rgba(64, 118, 190, 0.5)'
-                }
-            }
+        },
+        sidebar: {
+            '/learning-notes/': [
+                'css',
+                'javascript',
+                'php'
+            ]
         },
         footer: `
               &copy; <a href="https://github.com/Alan-ZL" target="_blank">Alan</a> 2022

@@ -5,6 +5,8 @@ subtitle: 想抓取其他網站的內容，但又不想用iframe的好方法！
 author: alan
 date: 2022-05-08
 headerImage: /img/language-logo/phplogo.jpg
+useHeaderImage: true
+headerMask: rgba(40, 57, 101, .6)
 tags:
   - php
 ---

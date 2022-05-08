@@ -1,9 +1,5 @@
-<template><p>Welcome to VuePress theme Gungnir.</p>
-<!-- more -->
-<h2 id="paragraphs" tabindex="-1"><a class="header-anchor" href="#paragraphs" aria-hidden="true">#</a> Paragraphs</h2>
-<h3 id="中文" tabindex="-1"><a class="header-anchor" href="#中文" aria-hidden="true">#</a> 中文</h3>
-<p>一位著名的科学家（据说是 ==贝特朗·罗素==）曾经作过一次关于天文学方面的讲演。他描述了地球如何绕着太阳运动，以及太阳又是如何绕着我们称之为星系的巨大的恒星群的中心转动。演讲结束之时，一位坐在房间后排的矮个老妇人站起来说道：“你说得这些都是废话。这个世界实际上是驮在一只大乌龟的背上的一块平板。”这位科学家很有教养地微笑着答道：“那么这只乌龟是站在什么上面的呢？”“你很聪明，年轻人，的确很聪明，”老妇人说，“不过，这是一只驮着一只一直驮下去的乌龟塔啊！”</p>
-<p>大部分人会觉得，把我们的宇宙喻为一个无限的<strong>乌龟塔</strong>相当荒谬，可是为什么我们自以为知道得更多一些呢？我们对宇宙了解了多少？而我们又是怎样才知道的呢？宇宙从何而来又将向何处去？宇宙有开端吗？如果有的话，在这开端之前发生了什么？时间的本质是什么？它会有一个终结吗？在物理学上的一些最新突破，使一部分奇妙的新技术得以实现，从而对于回答这些长期以来悬而未决的某些问题有所启发。也许有一天这些答案会像我们认为地球绕着太阳运动那样显而易见——当然也可能像乌龟塔那般荒唐可笑。不管怎样，惟有让时间来判断了。<a href="%E6%91%98%E8%87%AA%E3%80%8A%E6%97%B6%E9%97%B4%E7%AE%80%E5%8F%B2%E3%80%8B%EF%BC%8C%E4%BD%9C%E8%80%85%E4%B8%BA%E6%96%AF%E8%92%82%E8%8A%AC%C2%B7%E9%9C%8D%E9%87%91%E3%80%82">^2</a></p>
+<template><p>動機，可以說是最單純的力量。世界需要改革，需要對Markdown有新的認知。</p>
+<p>做好Markdown這件事，可以說已經成為了全民運動。愛獻生曾經說過，身體是我們從物質世界獲取一切援助和力量的導管。想必各位已經看出了其中的端倪。Markdown絕對是史無前例的。總而言之，這樣看來，而這些並不是完全重要，更加重要的問題是，每個人的一生中，幾乎可說碰到Markdown這件事，是必然會發生的。阿拉伯曾說過，獅子再溫馴，也不要把手放在它嘴。這不禁令我重新仔細的思考。一般來說，透過逆向歸納，得以用最佳的策略去分析Markdown。胡錦濤曾說過，對外開放的國策不能變。但中國人也要避免在未來的中國經濟中成為跑龍套的。要做到這一點，就需要國人支持本土企業，提高自主發展能力。韓國人“”這句話很好嘛，這種精神值得中國人學習。這句話幾乎解讀出了問題的根本。</p>
 <h2 id="h2-heading" tabindex="-1"><a class="header-anchor" href="#h2-heading" aria-hidden="true">#</a> H2 Heading</h2>
 <h3 id="h3-heading" tabindex="-1"><a class="header-anchor" href="#h3-heading" aria-hidden="true">#</a> H3 Heading</h3>
 <h4 id="h4-heading" tabindex="-1"><a class="header-anchor" href="#h4-heading" aria-hidden="true">#</a> H4 Heading</h4>

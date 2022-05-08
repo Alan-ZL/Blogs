@@ -7,6 +7,112 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "css",
+    "headers": [
+      {
+        "level": 2,
+        "title": "css(h2)",
+        "slug": "css-h2",
+        "children": [
+          {
+            "level": 3,
+            "title": "css(h3)",
+            "slug": "css-h3",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "css(h3)",
+            "slug": "css-h3-1",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "css(h3)",
+            "slug": "css-h3-2",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/learning-notes/css.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "javascript",
+    "headers": [
+      {
+        "level": 2,
+        "title": "javascript(h2)",
+        "slug": "javascript-h2",
+        "children": [
+          {
+            "level": 3,
+            "title": "javascript(h3)",
+            "slug": "javascript-h3",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "javascript(h3)",
+            "slug": "javascript-h3-1",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "javascript(h3)",
+            "slug": "javascript-h3-2",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/learning-notes/javascript.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "php",
+    "headers": [
+      {
+        "level": 2,
+        "title": "Makerdown(h2)",
+        "slug": "makerdown-h2",
+        "children": [
+          {
+            "level": 3,
+            "title": "Makerdown(h3)",
+            "slug": "makerdown-h3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "Makerdown(h2)",
+        "slug": "makerdown-h2-1",
+        "children": [
+          {
+            "level": 3,
+            "title": "Makerdown(h3)",
+            "slug": "makerdown-h3-1",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Makerdown(h3)",
+            "slug": "makerdown-h3-2",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/learning-notes/php.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "php抓取特定div區塊及圖片",
     "subtitle": "想抓取其他網站的內容，但又不想用iframe的好方法！",
     "headers": [
@@ -47,22 +153,9 @@ export const searchIndex = [
     "layout": "Post"
   },
   {
-    "title": "第一篇文章",
-    "subtitle": "A Test Post without The Header Image",
+    "title": "Markdown示範",
+    "subtitle": "A Test Post without Markdown",
     "headers": [
-      {
-        "level": 2,
-        "title": "Paragraphs",
-        "slug": "paragraphs",
-        "children": [
-          {
-            "level": 3,
-            "title": "中文",
-            "slug": "中文",
-            "children": []
-          }
-        ]
-      },
       {
         "level": 2,
         "title": "H2 Heading",
@@ -191,7 +284,7 @@ export const searchIndex = [
   {
     "title": "Tags",
     "headers": [],
-    "path": "/tags/%E7%AF%84%E4%BE%8B/",
+    "path": "/tags/Markdown/",
     "pathLocale": "/",
     "extraFields": [],
     "layout": "Tags"

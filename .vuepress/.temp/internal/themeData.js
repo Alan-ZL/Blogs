@@ -9,6 +9,10 @@ export const themeData = {
     {
       "text": "Tags",
       "link": "/tags"
+    },
+    {
+      "text": "Learning Note",
+      "link": "/learning-notes/php"
     }
   ],
   "personalInfo": {
@@ -41,17 +45,17 @@ export const themeData = {
     "tags": {
       "subtitle": "",
       "bgImage": {
-        "path": "/img/pages/tags.jpg",
-        "mask": "rgba(40, 57, 101, 1)"
-      }
-    },
-    "links": {
-      "subtitle": "Hey! Here is links page!",
-      "bgImage": {
-        "path": "/img/pages/links.jpg",
-        "mask": "rgba(64, 118, 190, 0.5)"
+        "path": "/img/tags.jpg",
+        "mask": "rgba(40, 57, 101, .3)"
       }
     }
+  },
+  "sidebar": {
+    "/learning-notes/": [
+      "css",
+      "javascript",
+      "php"
+    ]
   },
   "footer": "\n              &copy; <a href=\"https://github.com/Alan-ZL\" target=\"_blank\">Alan</a> 2022\n              <br>\n              Powered by <a href=\"https://v2.vuepress.vuejs.org\" target=\"_blank\">VuePress</a> &\n              <a href=\"https://github.com/Renovamen/vuepress-theme-gungnir\" target=\"_blank\">Gungnir</a>\n        ",
   "locales": {
@@ -64,7 +68,6 @@ export const themeData = {
   "searchIcon": "ri-search-2-line",
   "langIcon": "hi-translate",
   "repo": null,
-  "sidebar": "auto",
   "sidebarDepth": 2,
   "editLink": true,
   "lastUpdated": true,
