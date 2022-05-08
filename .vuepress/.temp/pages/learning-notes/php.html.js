@@ -12,35 +12,22 @@ export const data = {
   "headers": [
     {
       "level": 2,
-      "title": "Makerdown(h2)",
-      "slug": "makerdown-h2",
+      "title": "正則表達式",
+      "slug": "正則表達式",
       "children": [
         {
           "level": 3,
-          "title": "Makerdown(h3)",
-          "slug": "makerdown-h3",
+          "title": "正規表達語法",
+          "slug": "正規表達語法",
           "children": []
         }
       ]
     },
     {
       "level": 2,
-      "title": "Makerdown(h2)",
-      "slug": "makerdown-h2-1",
-      "children": [
-        {
-          "level": 3,
-          "title": "Makerdown(h3)",
-          "slug": "makerdown-h3-1",
-          "children": []
-        },
-        {
-          "level": 3,
-          "title": "Makerdown(h3)",
-          "slug": "makerdown-h3-2",
-          "children": []
-        }
-      ]
+      "title": "參考",
+      "slug": "參考",
+      "children": []
     }
   ],
   "git": {
@@ -48,7 +35,7 @@ export const data = {
   },
   "readingTime": {
     "minutes": 4,
-    "words": 909
+    "words": 919
   },
   "filePathRelative": "learning-notes/php.md"
 }

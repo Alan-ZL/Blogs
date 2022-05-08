@@ -33,7 +33,7 @@ module.exports = {
                 link: '/tags'
             },
             {
-                text: 'Learning Note',
+                text: 'Learning Notes',
                 link: '/learning-notes/css'
             }
         ],

@@ -11,7 +11,7 @@ export const themeData = {
       "link": "/tags"
     },
     {
-      "text": "Learning Note",
+      "text": "Learning Notes",
       "link": "/learning-notes/css"
     }
   ],
