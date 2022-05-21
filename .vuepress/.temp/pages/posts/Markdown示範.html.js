@@ -110,8 +110,8 @@ export const data = {
     "updatedTime": 1652005207000
   },
   "readingTime": {
-    "minutes": 4,
-    "words": 663
+    "minutes": 3,
+    "words": 366
   },
   "filePathRelative": "posts/Markdown示範.md"
 }

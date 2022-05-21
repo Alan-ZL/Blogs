@@ -1,6 +1,4 @@
-<template><p>動機，可以說是最單純的力量。世界需要改革，需要對Markdown有新的認知。</p>
-<p>做好Markdown這件事，可以說已經成為了全民運動。愛獻生曾經說過，身體是我們從物質世界獲取一切援助和力量的導管。想必各位已經看出了其中的端倪。Markdown絕對是史無前例的。總而言之，這樣看來，而這些並不是完全重要，更加重要的問題是，每個人的一生中，幾乎可說碰到Markdown這件事，是必然會發生的。阿拉伯曾說過，獅子再溫馴，也不要把手放在它嘴。這不禁令我重新仔細的思考。一般來說，透過逆向歸納，得以用最佳的策略去分析Markdown。胡錦濤曾說過，對外開放的國策不能變。但中國人也要避免在未來的中國經濟中成為跑龍套的。要做到這一點，就需要國人支持本土企業，提高自主發展能力。韓國人“”這句話很好嘛，這種精神值得中國人學習。這句話幾乎解讀出了問題的根本。</p>
-<h2 id="h2-heading" tabindex="-1"><a class="header-anchor" href="#h2-heading" aria-hidden="true">#</a> H2 Heading</h2>
+<template><h2 id="h2-heading" tabindex="-1"><a class="header-anchor" href="#h2-heading" aria-hidden="true">#</a> H2 Heading</h2>
 <h3 id="h3-heading" tabindex="-1"><a class="header-anchor" href="#h3-heading" aria-hidden="true">#</a> H3 Heading</h3>
 <h4 id="h4-heading" tabindex="-1"><a class="header-anchor" href="#h4-heading" aria-hidden="true">#</a> H4 Heading</h4>
 <h5 id="h5-heading" tabindex="-1"><a class="header-anchor" href="#h5-heading" aria-hidden="true">#</a> H5 Heading</h5>
@@ -108,9 +106,9 @@ me <span class="token operator">=</span> Dragon<span class="token punctuation">(
 
       <LinkCard
         title="My Blog"
-        link="https://zxh.io"
+        link="https://alan-zl.github.io/Blogs/"
         icon=""
-        image="/img/links/me.png"
+        image="/img/avatar.jpg"
         siteDomain="true"
         ><p>My blog 🧐, powered by VuePress 2, themed by Gungnir.</p>
 </LinkCard>

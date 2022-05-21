@@ -6,7 +6,7 @@ author: alan  # author (optional, will use `themeConfig.personalInfo.name` as de
 
 ## 正則表達式
 
-::: tip
+::: info
 正則表達式是一種描述字符串結果的語法規則，是一個特定的格式化模式，可以匹配、替換、截取匹配的字符串。常用的語言基本上都有正則表達式，如JavaScript、java等。其實，只有了解一種語言的正則使用，其他語言的正則使用起來，就相對簡單些。文本主要圍繞解決下面問題展開。
 :::
 

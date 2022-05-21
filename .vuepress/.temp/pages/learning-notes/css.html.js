@@ -5,43 +5,62 @@ export const data = {
   "lang": "en-US",
   "frontmatter": {
     "title": "css",
-    "date": "2020-05-08T00:00:00.000Z",
+    "date": "2020-05-21T00:00:00.000Z",
     "author": "alan"
   },
   "excerpt": "",
   "headers": [
     {
       "level": 2,
-      "title": "css(h2)",
-      "slug": "css-h2",
+      "title": "Flex",
+      "slug": "flex",
       "children": [
         {
           "level": 3,
-          "title": "css(h3)",
-          "slug": "css-h3",
+          "title": "外容器屬性",
+          "slug": "外容器屬性",
           "children": []
         },
         {
           "level": 3,
-          "title": "css(h3)",
-          "slug": "css-h3-1",
-          "children": []
-        },
-        {
-          "level": 3,
-          "title": "css(h3)",
-          "slug": "css-h3-2",
+          "title": "內元件屬性",
+          "slug": "內元件屬性",
           "children": []
         }
       ]
+    },
+    {
+      "level": 2,
+      "title": "Grid",
+      "slug": "grid",
+      "children": [
+        {
+          "level": 3,
+          "title": "外容器屬性",
+          "slug": "外容器屬性-1",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "內元件屬性",
+          "slug": "內元件屬性-1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "title": "Float",
+      "slug": "float",
+      "children": []
     }
   ],
   "git": {
     "updatedTime": 1651999202000
   },
   "readingTime": {
-    "minutes": 4,
-    "words": 909
+    "minutes": 9,
+    "words": 1961
   },
   "filePathRelative": "learning-notes/css.md"
 }
