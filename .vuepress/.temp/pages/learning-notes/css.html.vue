@@ -70,7 +70,7 @@
 <span class="token property">place-self</span> <span class="token punctuation">:</span> align-self | justify-self
 </code></pre><div class="line-numbers" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br><span class="line-number">15</span><br><span class="line-number">16</span><br><span class="line-number">17</span><br><span class="line-number">18</span><br><span class="line-number">19</span><br><span class="line-number">20</span><br><span class="line-number">21</span><br><span class="line-number">22</span><br><span class="line-number">23</span><br></div></div><h3 id="外容器屬性-1" tabindex="-1"><a class="header-anchor" href="#外容器屬性-1" aria-hidden="true">#</a> 外容器屬性</h3>
 <h4 id="display-1" tabindex="-1"><a class="header-anchor" href="#display-1" aria-hidden="true">#</a> display</h4>
-<p>必須要宣告display為grid才能使用，inline-flex的作用類似於inline-block + flex； 如果這個元素本身也是個 grid item 時，我們就需要設定subgrid，來告訴瀏覽器 &quot;這個元素的尺寸。</p>
+<p>必須要宣告display為grid才能使用，inline-grid的作用類似於inline-block； 如果這個元素本身也是個 grid item 時，我們就需要設定subgrid，來告訴瀏覽器 &quot;這個元素的尺寸。</p>
 <h4 id="grid-template-columns" tabindex="-1"><a class="header-anchor" href="#grid-template-columns" aria-hidden="true">#</a> grid-template-columns</h4>
 <p>定義欄的大小(明式)，也可以幫框線取名。ex.grid-template-columns: [track-size] [track-size] ... | [line-name] [track-size] [line-name] ...</p>
 <h4 id="grid-template-rows" tabindex="-1"><a class="header-anchor" href="#grid-template-rows" aria-hidden="true">#</a> grid-template-rows</h4>
@@ -136,4 +136,6 @@
 <p>指定元素是否可以浮動。有分成 left(靠左) 、 right(靠右) 、 none(不浮動) 、 inherit(繼承) 四個屬性。</p>
 <h4 id="clear" tabindex="-1"><a class="header-anchor" href="#clear" aria-hidden="true">#</a> clear</h4>
 <p>指定元素來清除周圍浮動。有分成 left 、 right、 both 、 none 、 inherit 四個屬性。</p>
+<h2 id="參考" tabindex="-1"><a class="header-anchor" href="#參考" aria-hidden="true">#</a> 參考</h2>
+<h6 id="it邦幫忙-30天css隨手筆記-系列-lazy-shyu" tabindex="-1"><a class="header-anchor" href="#it邦幫忙-30天css隨手筆記-系列-lazy-shyu" aria-hidden="true">#</a> <a href="https://ithelp.ithome.com.tw/users/20103812/ironman/1213" target="_blank" rel="noopener noreferrer">iT邦幫忙/30天CSS隨手筆記 系列/lazy_shyu</a></h6>
 </template>

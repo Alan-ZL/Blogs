@@ -90,7 +90,7 @@ place-self : align-self | justify-self
 
 ### 外容器屬性
 #### display
-必須要宣告display為grid才能使用，inline-flex的作用類似於inline-block + flex； 如果這個元素本身也是個 grid item 時，我們就需要設定subgrid，來告訴瀏覽器 "這個元素的尺寸。
+必須要宣告display為grid才能使用，inline-grid的作用類似於inline-block； 如果這個元素本身也是個 grid item 時，我們就需要設定subgrid，來告訴瀏覽器 "這個元素的尺寸。
 
 #### grid-template-columns
 定義欄的大小(明式)，也可以幫框線取名。ex.grid-template-columns: [track-size] [track-size] ... | [line-name] [track-size] [line-name] ...
@@ -186,3 +186,6 @@ clear: left | right | both | none | inherit
 
 #### clear
 指定元素來清除周圍浮動。有分成 left 、 right、 both 、 none 、 inherit 四個屬性。
+
+## 參考
+###### [iT邦幫忙/30天CSS隨手筆記 系列/lazy_shyu](https://ithelp.ithome.com.tw/users/20103812/ironman/1213)
