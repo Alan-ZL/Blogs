@@ -1,1 +1,2 @@
-<template></template>
+<template><p>test</p>
+</template>

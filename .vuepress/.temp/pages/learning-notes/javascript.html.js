@@ -11,7 +11,11 @@ export const data = {
   "excerpt": "",
   "headers": [],
   "git": {
-    "updatedTime": 1651999202000
+    "updatedTime": 1653118033000
+  },
+  "readingTime": {
+    "minutes": 1,
+    "words": 1
   },
   "filePathRelative": "learning-notes/javascript.md"
 }

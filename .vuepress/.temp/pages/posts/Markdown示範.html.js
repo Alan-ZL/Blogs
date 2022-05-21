@@ -107,7 +107,7 @@ export const data = {
     }
   ],
   "git": {
-    "updatedTime": 1652005207000
+    "updatedTime": 1653118033000
   },
   "readingTime": {
     "minutes": 3,
