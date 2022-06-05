@@ -1,6 +1,6 @@
 ---
 layout: Post
-title: php抓取特定div區塊及圖片
+title: PHP抓取特定div區塊及圖片
 subtitle: 想抓取其他網站的內容，但又不想用iframe的好方法！
 author: alan
 date: 2022-05-08

@@ -196,7 +196,7 @@ export const searchIndex = [
     "layout": "Post"
   },
   {
-    "title": "php抓取特定div區塊及圖片",
+    "title": "PHP抓取特定div區塊及圖片",
     "subtitle": "想抓取其他網站的內容，但又不想用iframe的好方法！",
     "headers": [
       {
@@ -231,6 +231,34 @@ export const searchIndex = [
       }
     ],
     "path": "/posts/php%E6%8A%93%E5%8F%96%E7%89%B9%E5%AE%9Adiv%E5%8D%80%E5%A1%8A%E5%8F%8A%E5%9C%96%E7%89%87.html",
+    "pathLocale": "/",
+    "extraFields": [],
+    "layout": "Post"
+  },
+  {
+    "title": "WordPress製作客製選單",
+    "subtitle": "您使用的wordpress主題預設選單不夠用？卻不知道如何製作自己的選單！?",
+    "headers": [
+      {
+        "level": 2,
+        "title": "如何在 WordPress 中註冊新選單",
+        "slug": "如何在-wordpress-中註冊新選單",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "如何在網站上顯示新選單",
+        "slug": "如何在網站上顯示新選單",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "參考",
+        "slug": "參考",
+        "children": []
+      }
+    ],
+    "path": "/posts/wordpress%E8%A3%BD%E4%BD%9C%E5%AE%A2%E8%A3%BD%E9%81%B8%E5%96%AE.html",
     "pathLocale": "/",
     "extraFields": [],
     "layout": "Post"
@@ -271,6 +299,14 @@ export const searchIndex = [
     "title": "Tags",
     "headers": [],
     "path": "/tags/php/",
+    "pathLocale": "/",
+    "extraFields": [],
+    "layout": "Tags"
+  },
+  {
+    "title": "Tags",
+    "headers": [],
+    "path": "/tags/wordpress/",
     "pathLocale": "/",
     "extraFields": [],
     "layout": "Tags"

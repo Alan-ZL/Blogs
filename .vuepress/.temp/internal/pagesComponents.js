@@ -13,6 +13,8 @@ export const pagesComponents = {
   "v-4660312c": defineAsyncComponent(() => import(/* webpackChunkName: "v-4660312c" */"C:/Users/zxcya/OneDrive - gtrade1xxii/桌面/Blogs/.vuepress/.temp/pages/posts/Markdown示範.html.vue")),
   // path: /posts/php%E6%8A%93%E5%8F%96%E7%89%B9%E5%AE%9Adiv%E5%8D%80%E5%A1%8A%E5%8F%8A%E5%9C%96%E7%89%87.html
   "v-44d47364": defineAsyncComponent(() => import(/* webpackChunkName: "v-44d47364" */"C:/Users/zxcya/OneDrive - gtrade1xxii/桌面/Blogs/.vuepress/.temp/pages/posts/php抓取特定div區塊及圖片.html.vue")),
+  // path: /posts/wordpress%E8%A3%BD%E4%BD%9C%E5%AE%A2%E8%A3%BD%E9%81%B8%E5%96%AE.html
+  "v-3501c675": defineAsyncComponent(() => import(/* webpackChunkName: "v-3501c675" */"C:/Users/zxcya/OneDrive - gtrade1xxii/桌面/Blogs/.vuepress/.temp/pages/posts/wordpress製作客製選單.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"C:/Users/zxcya/OneDrive - gtrade1xxii/桌面/Blogs/.vuepress/.temp/pages/404.html.vue")),
   // path: /
@@ -23,6 +25,8 @@ export const pagesComponents = {
   "v-0515f9c3": defineAsyncComponent(() => import(/* webpackChunkName: "v-0515f9c3" */"C:/Users/zxcya/OneDrive - gtrade1xxii/桌面/Blogs/.vuepress/.temp/pages/tags/Markdown/index.html.vue")),
   // path: /tags/php/
   "v-cd1ad1d8": defineAsyncComponent(() => import(/* webpackChunkName: "v-cd1ad1d8" */"C:/Users/zxcya/OneDrive - gtrade1xxii/桌面/Blogs/.vuepress/.temp/pages/tags/php/index.html.vue")),
+  // path: /tags/wordpress/
+  "v-6fc49b73": defineAsyncComponent(() => import(/* webpackChunkName: "v-6fc49b73" */"C:/Users/zxcya/OneDrive - gtrade1xxii/桌面/Blogs/.vuepress/.temp/pages/tags/wordpress/index.html.vue")),
   // path: /page/1/
   "v-3a1f8885": defineAsyncComponent(() => import(/* webpackChunkName: "v-3a1f8885" */"C:/Users/zxcya/OneDrive - gtrade1xxii/桌面/Blogs/.vuepress/.temp/pages/page/1/index.html.vue")),
 }
