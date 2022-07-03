@@ -264,6 +264,46 @@ export const searchIndex = [
     "layout": "Post"
   },
   {
+    "title": "使用Intersection Observer製作sticky menu",
+    "subtitle": "在性能上比scroll listener還要好的Intersection Observer",
+    "headers": [
+      {
+        "level": 2,
+        "title": "什麼是Intersection Observer ?",
+        "slug": "什麼是intersection-observer",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Intersection Observer的大致架構",
+        "slug": "intersection-observer的大致架構",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "實作Sticky Menu",
+        "slug": "實作sticky-menu",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "CodePen 示例",
+        "slug": "codepen-示例",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "參考",
+        "slug": "參考",
+        "children": []
+      }
+    ],
+    "path": "/posts/%E4%BD%BF%E7%94%A8IntersectionObserver%E8%A3%BD%E4%BD%9CstickyMenu.html",
+    "pathLocale": "/",
+    "extraFields": [],
+    "layout": "Post"
+  },
+  {
     "title": "",
     "headers": [],
     "path": "/404.html",
@@ -307,6 +347,14 @@ export const searchIndex = [
     "title": "Tags",
     "headers": [],
     "path": "/tags/wordpress/",
+    "pathLocale": "/",
+    "extraFields": [],
+    "layout": "Tags"
+  },
+  {
+    "title": "Tags",
+    "headers": [],
+    "path": "/tags/javascript/",
     "pathLocale": "/",
     "extraFields": [],
     "layout": "Tags"

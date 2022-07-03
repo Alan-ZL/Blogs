@@ -13,6 +13,8 @@ export const pagesData = {
   "v-44d47364": () => import(/* webpackChunkName: "v-44d47364" */"C:/Users/zxcya/OneDrive - gtrade1xxii/桌面/Blogs/.vuepress/.temp/pages/posts/php抓取特定div區塊及圖片.html.js").then(({ data }) => data),
   // path: /posts/wordpress%E8%A3%BD%E4%BD%9C%E5%AE%A2%E8%A3%BD%E9%81%B8%E5%96%AE.html
   "v-3501c675": () => import(/* webpackChunkName: "v-3501c675" */"C:/Users/zxcya/OneDrive - gtrade1xxii/桌面/Blogs/.vuepress/.temp/pages/posts/wordpress製作客製選單.html.js").then(({ data }) => data),
+  // path: /posts/%E4%BD%BF%E7%94%A8IntersectionObserver%E8%A3%BD%E4%BD%9CstickyMenu.html
+  "v-98960ca8": () => import(/* webpackChunkName: "v-98960ca8" */"C:/Users/zxcya/OneDrive - gtrade1xxii/桌面/Blogs/.vuepress/.temp/pages/posts/使用IntersectionObserver製作stickyMenu.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"C:/Users/zxcya/OneDrive - gtrade1xxii/桌面/Blogs/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
   // path: /
@@ -25,6 +27,8 @@ export const pagesData = {
   "v-cd1ad1d8": () => import(/* webpackChunkName: "v-cd1ad1d8" */"C:/Users/zxcya/OneDrive - gtrade1xxii/桌面/Blogs/.vuepress/.temp/pages/tags/php/index.html.js").then(({ data }) => data),
   // path: /tags/wordpress/
   "v-6fc49b73": () => import(/* webpackChunkName: "v-6fc49b73" */"C:/Users/zxcya/OneDrive - gtrade1xxii/桌面/Blogs/.vuepress/.temp/pages/tags/wordpress/index.html.js").then(({ data }) => data),
+  // path: /tags/javascript/
+  "v-3c686865": () => import(/* webpackChunkName: "v-3c686865" */"C:/Users/zxcya/OneDrive - gtrade1xxii/桌面/Blogs/.vuepress/.temp/pages/tags/javascript/index.html.js").then(({ data }) => data),
   // path: /page/1/
   "v-3a1f8885": () => import(/* webpackChunkName: "v-3a1f8885" */"C:/Users/zxcya/OneDrive - gtrade1xxii/桌面/Blogs/.vuepress/.temp/pages/page/1/index.html.js").then(({ data }) => data),
 }
