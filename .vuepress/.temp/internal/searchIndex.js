@@ -66,7 +66,39 @@ export const searchIndex = [
   },
   {
     "title": "javascript",
-    "headers": [],
+    "headers": [
+      {
+        "level": 2,
+        "title": "Observer",
+        "slug": "observer",
+        "children": [
+          {
+            "level": 3,
+            "title": "Intersection Observer",
+            "slug": "intersection-observer",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Mutation Observer",
+            "slug": "mutation-observer",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Resize Observer",
+            "slug": "resize-observer",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "參考",
+        "slug": "參考",
+        "children": []
+      }
+    ],
     "path": "/learning-notes/javascript.html",
     "pathLocale": "/",
     "extraFields": []
