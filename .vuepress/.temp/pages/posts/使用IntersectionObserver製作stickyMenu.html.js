@@ -34,13 +34,14 @@ export const data = {
       "level": 2,
       "title": "實作Sticky Menu",
       "slug": "實作sticky-menu",
-      "children": []
-    },
-    {
-      "level": 2,
-      "title": "CodePen 示例",
-      "slug": "codepen-示例",
-      "children": []
+      "children": [
+        {
+          "level": 3,
+          "title": "CodePen 示例",
+          "slug": "codepen-示例",
+          "children": []
+        }
+      ]
     },
     {
       "level": 2,
@@ -50,11 +51,11 @@ export const data = {
     }
   ],
   "git": {
-    "updatedTime": 1656859394000
+    "updatedTime": 1657443441000
   },
   "readingTime": {
     "minutes": 5,
-    "words": 1033
+    "words": 1025
   },
   "filePathRelative": "posts/使用IntersectionObserver製作stickyMenu.md"
 }

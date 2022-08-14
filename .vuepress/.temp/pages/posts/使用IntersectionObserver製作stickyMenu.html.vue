@@ -109,7 +109,7 @@ observer<span class="token punctuation">.</span><span class="token function">obs
 </ul>
 <p>isIntersecting：用來判別目標元素是否進入或離開了 viewport</p>
 </div>
-<h2 id="codepen-示例" tabindex="-1"><a class="header-anchor" href="#codepen-示例" aria-hidden="true">#</a> CodePen 示例</h2>
+<h3 id="codepen-示例" tabindex="-1"><a class="header-anchor" href="#codepen-示例" aria-hidden="true">#</a> CodePen 示例</h3>
 <iframe height="400" style="width: 100%;" scrolling="no" title="IntersectionObserver" src="https://codepen.io/alan-zl/embed/jOzPKZR?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href="https://codepen.io/alan-zl/pen/jOzPKZR">
   IntersectionObserver</a> by Alan (<a href="https://codepen.io/alan-zl">@alan-zl</a>)
@@ -121,5 +121,5 @@ observer<span class="token punctuation">.</span><span class="token function">obs
 <h6 id="let-s-write" tabindex="-1"><a class="header-anchor" href="#let-s-write" aria-hidden="true">#</a> <a href="https://www.letswrite.tw/intersection-oserver-basic/" target="_blank" rel="noopener noreferrer">Let's Write</a></h6>
 <h6 id="麥克的半路出家筆記" tabindex="-1"><a class="header-anchor" href="#麥克的半路出家筆記" aria-hidden="true">#</a> <a href="https://medium.com/%E9%BA%A5%E5%85%8B%E7%9A%84%E5%8D%8A%E8%B7%AF%E5%87%BA%E5%AE%B6%E7%AD%86%E8%A8%98/%E8%AA%8D%E8%AD%98-intersection-observer-api-%E5%AF%A6%E4%BD%9C-lazy-loading-%E5%92%8C-infinite-scroll-c8d434ad218c" target="_blank" rel="noopener noreferrer">麥克的半路出家筆記</a></h6>
 <h6 id="stack-overflow" tabindex="-1"><a class="header-anchor" href="#stack-overflow" aria-hidden="true">#</a> <a href="https://stackoverflow.com/questions/57253460/sticky-header-implementation-with-intersectionobserver" target="_blank" rel="noopener noreferrer">stack overflow</a></h6>
-<h6 id="麥克的半路出家筆記-1" tabindex="-1"><a class="header-anchor" href="#麥克的半路出家筆記-1" aria-hidden="true">#</a> <a href="https://itnext.io/1v1-scroll-listener-vs-intersection-observers-469a26ab9eb6" target="_blank" rel="noopener noreferrer">麥克的半路出家筆記</a></h6>
+<h6 id="itnext" tabindex="-1"><a class="header-anchor" href="#itnext" aria-hidden="true">#</a> <a href="https://itnext.io/1v1-scroll-listener-vs-intersection-observers-469a26ab9eb6" target="_blank" rel="noopener noreferrer">ITNEXT</a></h6>
 </template>

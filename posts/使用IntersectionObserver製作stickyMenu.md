@@ -145,7 +145,7 @@ threshold：設定目標元素的可見度達到多少比例時，觸發 callbac
 isIntersecting：用來判別目標元素是否進入或離開了 viewport
 :::
 
-## CodePen 示例
+### CodePen 示例
 
 <iframe height="400" style="width: 100%;" scrolling="no" title="IntersectionObserver" src="https://codepen.io/alan-zl/embed/jOzPKZR?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href="https://codepen.io/alan-zl/pen/jOzPKZR">
@@ -160,4 +160,4 @@ isIntersecting：用來判別目標元素是否進入或離開了 viewport
 ###### [Let's Write](https://www.letswrite.tw/intersection-oserver-basic/)
 ###### [麥克的半路出家筆記](https://medium.com/%E9%BA%A5%E5%85%8B%E7%9A%84%E5%8D%8A%E8%B7%AF%E5%87%BA%E5%AE%B6%E7%AD%86%E8%A8%98/%E8%AA%8D%E8%AD%98-intersection-observer-api-%E5%AF%A6%E4%BD%9C-lazy-loading-%E5%92%8C-infinite-scroll-c8d434ad218c)
 ###### [stack overflow](https://stackoverflow.com/questions/57253460/sticky-header-implementation-with-intersectionobserver)
-###### [麥克的半路出家筆記](https://itnext.io/1v1-scroll-listener-vs-intersection-observers-469a26ab9eb6)
+###### [ITNEXT](https://itnext.io/1v1-scroll-listener-vs-intersection-observers-469a26ab9eb6)

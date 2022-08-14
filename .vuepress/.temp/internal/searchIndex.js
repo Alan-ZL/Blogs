@@ -131,6 +131,67 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "JS實作圖片上傳預覽功能",
+    "subtitle": "簡單又實用的圖片預覽方法",
+    "headers": [
+      {
+        "level": 2,
+        "title": "方法一 ( FileReader.readAsDataURL )",
+        "slug": "方法一-filereader-readasdataurl",
+        "children": [
+          {
+            "level": 3,
+            "title": "CodePen 示例",
+            "slug": "codepen-示例",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "方法二 ( URL.createObjectUR )",
+        "slug": "方法二-url-createobjectur",
+        "children": [
+          {
+            "level": 3,
+            "title": "CodePen 示例",
+            "slug": "codepen-示例-1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "兩者方法比較",
+        "slug": "兩者方法比較",
+        "children": [
+          {
+            "level": 3,
+            "title": "URL.createObjectURL() vs. FileReader.readAsDataURL()",
+            "slug": "url-createobjecturl-vs-filereader-readasdataurl",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "結論",
+            "slug": "結論",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "參考",
+        "slug": "參考",
+        "children": []
+      }
+    ],
+    "path": "/posts/js%E5%AF%A6%E4%BD%9C%E5%9C%96%E7%89%87%E4%B8%8A%E5%82%B3%E9%A0%90%E8%A6%BD%E5%8A%9F%E8%83%BD.html",
+    "pathLocale": "/",
+    "extraFields": [],
+    "layout": "Post"
+  },
+  {
     "title": "Markdown示範",
     "subtitle": "A Test Post without Markdown",
     "headers": [
@@ -315,13 +376,14 @@ export const searchIndex = [
         "level": 2,
         "title": "實作Sticky Menu",
         "slug": "實作sticky-menu",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "CodePen 示例",
-        "slug": "codepen-示例",
-        "children": []
+        "children": [
+          {
+            "level": 3,
+            "title": "CodePen 示例",
+            "slug": "codepen-示例",
+            "children": []
+          }
+        ]
       },
       {
         "level": 2,
@@ -362,6 +424,14 @@ export const searchIndex = [
   {
     "title": "Tags",
     "headers": [],
+    "path": "/tags/javascript/",
+    "pathLocale": "/",
+    "extraFields": [],
+    "layout": "Tags"
+  },
+  {
+    "title": "Tags",
+    "headers": [],
     "path": "/tags/Markdown/",
     "pathLocale": "/",
     "extraFields": [],
@@ -379,14 +449,6 @@ export const searchIndex = [
     "title": "Tags",
     "headers": [],
     "path": "/tags/wordpress/",
-    "pathLocale": "/",
-    "extraFields": [],
-    "layout": "Tags"
-  },
-  {
-    "title": "Tags",
-    "headers": [],
-    "path": "/tags/javascript/",
     "pathLocale": "/",
     "extraFields": [],
     "layout": "Tags"

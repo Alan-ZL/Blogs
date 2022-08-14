@@ -50,7 +50,7 @@ module.exports = {
             // optional: id of social platform, will be showed on home page and mobile sidebar
             sns: {
                 github: 'Alan-ZL', // Github
-                linkedin: 'xiaohan-zou-55bba0160', // Linkedin
+                linkedin: 'zhenglun-jiang', // Linkedin
                 facebook: 'Alan.ZL.Jiang ', // Facebook
                 email: 'zxcya3@gmail.com', // Email
             }

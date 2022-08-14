@@ -21,7 +21,7 @@ export const themeData = {
     "description": "一個喜歡貓和交易的工程師",
     "sns": {
       "github": "Alan-ZL",
-      "linkedin": "xiaohan-zou-55bba0160",
+      "linkedin": "zhenglun-jiang",
       "facebook": "Alan.ZL.Jiang ",
       "email": "zxcya3@gmail.com"
     }
