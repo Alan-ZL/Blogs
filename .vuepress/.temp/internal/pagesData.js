@@ -1,12 +1,6 @@
 export const pagesData = {
   // path: /
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"C:/Users/zxcya/OneDrive - gtrade1xxii/桌面/Blogs/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
-  // path: /learning-notes/css.html
-  "v-0e0543ba": () => import(/* webpackChunkName: "v-0e0543ba" */"C:/Users/zxcya/OneDrive - gtrade1xxii/桌面/Blogs/.vuepress/.temp/pages/learning-notes/css.html.js").then(({ data }) => data),
-  // path: /learning-notes/javascript.html
-  "v-2a13dc08": () => import(/* webpackChunkName: "v-2a13dc08" */"C:/Users/zxcya/OneDrive - gtrade1xxii/桌面/Blogs/.vuepress/.temp/pages/learning-notes/javascript.html.js").then(({ data }) => data),
-  // path: /learning-notes/php.html
-  "v-09717565": () => import(/* webpackChunkName: "v-09717565" */"C:/Users/zxcya/OneDrive - gtrade1xxii/桌面/Blogs/.vuepress/.temp/pages/learning-notes/php.html.js").then(({ data }) => data),
   // path: /posts/js%E5%AF%A6%E4%BD%9C%E5%9C%96%E7%89%87%E4%B8%8A%E5%82%B3%E9%A0%90%E8%A6%BD%E5%8A%9F%E8%83%BD.html
   "v-468dbdc8": () => import(/* webpackChunkName: "v-468dbdc8" */"C:/Users/zxcya/OneDrive - gtrade1xxii/桌面/Blogs/.vuepress/.temp/pages/posts/js實作圖片上傳預覽功能.html.js").then(({ data }) => data),
   // path: /posts/Markdown%E7%A4%BA%E7%AF%84.html
@@ -17,6 +11,12 @@ export const pagesData = {
   "v-3501c675": () => import(/* webpackChunkName: "v-3501c675" */"C:/Users/zxcya/OneDrive - gtrade1xxii/桌面/Blogs/.vuepress/.temp/pages/posts/wordpress製作客製選單.html.js").then(({ data }) => data),
   // path: /posts/%E4%BD%BF%E7%94%A8IntersectionObserver%E8%A3%BD%E4%BD%9CstickyMenu.html
   "v-98960ca8": () => import(/* webpackChunkName: "v-98960ca8" */"C:/Users/zxcya/OneDrive - gtrade1xxii/桌面/Blogs/.vuepress/.temp/pages/posts/使用IntersectionObserver製作stickyMenu.html.js").then(({ data }) => data),
+  // path: /learning-notes/css.html
+  "v-0e0543ba": () => import(/* webpackChunkName: "v-0e0543ba" */"C:/Users/zxcya/OneDrive - gtrade1xxii/桌面/Blogs/.vuepress/.temp/pages/learning-notes/css.html.js").then(({ data }) => data),
+  // path: /learning-notes/javascript.html
+  "v-2a13dc08": () => import(/* webpackChunkName: "v-2a13dc08" */"C:/Users/zxcya/OneDrive - gtrade1xxii/桌面/Blogs/.vuepress/.temp/pages/learning-notes/javascript.html.js").then(({ data }) => data),
+  // path: /learning-notes/php.html
+  "v-09717565": () => import(/* webpackChunkName: "v-09717565" */"C:/Users/zxcya/OneDrive - gtrade1xxii/桌面/Blogs/.vuepress/.temp/pages/learning-notes/php.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"C:/Users/zxcya/OneDrive - gtrade1xxii/桌面/Blogs/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
   // path: /
