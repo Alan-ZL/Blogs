@@ -13,6 +13,10 @@ export const themeData = {
     {
       "text": "Learning Notes",
       "link": "/learning-notes/css"
+    },
+    {
+      "text": "Side Project",
+      "link": "https://vueproject-106fb.web.app/"
     }
   ],
   "personalInfo": {

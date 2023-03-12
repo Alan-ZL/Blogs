@@ -60,8 +60,8 @@ observer<span class="token punctuation">.</span><span class="token function">obs
 
 <span class="token comment">// 觀察者的配置：</span>
 <span class="token keyword">let</span> config <span class="token operator">=</span> <span class="token punctuation">{</span> 
-    <span class="token literal-property property">attributes</span><span class="token operator">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span> <span class="token comment">// 觀察目標節點的子元素（包括文本節點）的添加和刪除</span>
-    <span class="token literal-property property">childList</span><span class="token operator">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span> <span class="token comment">// 觀察目標屬性的突變</span>
+    <span class="token literal-property property">attributes</span><span class="token operator">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span> <span class="token comment">// 觀察目標屬性的突變</span>
+    <span class="token literal-property property">childList</span><span class="token operator">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span> <span class="token comment">// 觀察目標節點的子元素（包括文本節點）的添加和刪除</span>
     <span class="token literal-property property">characterData</span><span class="token operator">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span> <span class="token comment">// 觀察目標數據的突變</span>
     <span class="token literal-property property">subtree</span><span class="token operator">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span> <span class="token comment">// 觀察目標的突變，還要觀察目標的後代</span>
     <span class="token literal-property property">attributeOldValue</span><span class="token operator">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span>  <span class="token comment">// 記錄突變前的目標屬性值</span>

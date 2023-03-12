@@ -80,8 +80,8 @@ let observer = new MutationObserver(function(mutations) {
 
 // 觀察者的配置：
 let config = { 
-    attributes: true, // 觀察目標節點的子元素（包括文本節點）的添加和刪除
-    childList: true, // 觀察目標屬性的突變
+    attributes: true, // 觀察目標屬性的突變
+    childList: true, // 觀察目標節點的子元素（包括文本節點）的添加和刪除
     characterData: true, // 觀察目標數據的突變
     subtree: true, // 觀察目標的突變，還要觀察目標的後代
     attributeOldValue: true,  // 記錄突變前的目標屬性值
