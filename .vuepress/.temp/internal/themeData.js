@@ -15,8 +15,8 @@ export const themeData = {
       "link": "/learning-notes/css"
     },
     {
-      "text": "Side Project",
-      "link": "https://vueproject-106fb.web.app/"
+      "text": "Demo Site",
+      "link": "https://learn-coursehub.web.app/"
     }
   ],
   "personalInfo": {

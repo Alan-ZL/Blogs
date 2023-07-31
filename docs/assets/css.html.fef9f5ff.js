@@ -1,4 +1,4 @@
-import{_ as n,o as s,c as r,F as t,b as a,d as e}from"./app.0c5f401a.js";const i={},l=a(`<h2 id="flex" tabindex="-1"><a class="header-anchor" href="#flex" aria-hidden="true">#</a> Flex</h2><div class="language-css ext-css line-numbers-mode"><pre class="language-css"><code><span class="token comment">/*\u5916\u5BB9\u5668\u5C6C\u6027*/</span>
+import{_ as n,o as s,c as r,F as t,a,b as e}from"./app.30fc9607.js";const i={},l=a(`<h2 id="flex" tabindex="-1"><a class="header-anchor" href="#flex" aria-hidden="true">#</a> Flex</h2><div class="language-css ext-css line-numbers-mode"><pre class="language-css"><code><span class="token comment">/*\u5916\u5BB9\u5668\u5C6C\u6027*/</span>
 <span class="token property">display</span> <span class="token punctuation">:</span> flex | inline-flex
 <span class="token property">flex-direction</span> <span class="token punctuation">:</span> row | row-reverse | column | column-reverse
 <span class="token property">flex-wrap</span> <span class="token punctuation">:</span> nowrap | wrap | wrap-reverse
